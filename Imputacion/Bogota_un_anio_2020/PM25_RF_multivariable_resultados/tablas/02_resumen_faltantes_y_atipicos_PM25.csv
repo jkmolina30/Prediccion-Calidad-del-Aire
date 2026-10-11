@@ -1,0 +1,3 @@
+﻿Estacion,Total_dias,Observados_originales,Faltantes_originales,Atipicos_detectados,Requieren_imputacion,Atipicos_fisicos,Atipicos_IQR,Atipicos_MAD,Pct_faltante_original,Pct_atipico,Pct_requiere_imputacion
+CENTRO DE ALTO RENDIMIENTO,366,363,3,14,17,0,11,5,0.819672131147541,3.825136612021858,4.644808743169399
+SAN CRISTOBAL,366,361,5,17,22,0,8,11,1.366120218579235,4.644808743169399,6.0109289617486334

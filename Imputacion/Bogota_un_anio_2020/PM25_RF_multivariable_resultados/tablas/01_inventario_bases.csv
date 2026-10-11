@@ -1,0 +1,8 @@
+﻿Variable,Archivo,Registros,Estaciones,Fecha_min,Fecha_max,Valores_faltantes_en_columna
+PM2.5,PM25.csv,724,2,2020-01-01,2020-12-31,0
+DViento,DViento.csv,732,2,2020-01-01,2020-12-31,0
+VViento,VViento.csv,732,2,2020-01-01,2020-12-31,0
+HAire2,HAire2.csv,732,2,2020-01-01,2020-12-31,0
+TAire2,TAire2.csv,732,2,2020-01-01,2020-12-31,0
+RGlobal,RGlobal.csv,732,2,2020-01-01,2020-12-31,0
+PLiquida,PLiquida.csv,732,2,2020-01-01,2020-12-31,0
